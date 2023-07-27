@@ -8,6 +8,7 @@
      <a href="https://www.notion.so/moondongmin/Chapter-03-d13b3e21863e4b6bae662afa86e9595a", target="_blank">Chapter 03. 네트워크 통신하기</a><br>
      <a href="https://www.notion.so/moondongmin/Chapter-04-2-d7d03636bb614e6993c2924d05e87e98", target="_blank">Chapter 04. 스위치: 2계층 장비</a><br>
      <a href="https://www.notion.so/moondongmin/Chapter-05-L3-3-631f151bb25643bc85beb6adc20f7e2b", target="_blank">Chapter 05. 라우터/L3 스위치: 3계층 장비</a><br>
+      <a href="https://www.notion.so/moondongmin/Chapter-06-4-52e9a9ac293d400db14bb517635ac404", target="_blank">Chapter 06. 로드 밸런서/ 방화벽: 4계층 장비(세션 장비)</a><br>
      
     
     
