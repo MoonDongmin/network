@@ -22,3 +22,5 @@
 [Chapter 07. 통신을 도와주는 네트워크 주요 기술](https://www.notion.so/Chapter-07-03df0e08f0e44de2b04a86633ac889ac?pvs=21)
 
 [Chapter 08. 서버 네트워크 기본](https://www.notion.so/Chapter-08-263aaf35675544d4af80e3d81090f2a3?pvs=21)
+
+[Chapter 09. 보안](https://www.notion.so/moondongmin/Chapter-09-34841f4e084d45eabb619de854ad7464)
