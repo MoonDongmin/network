@@ -24,3 +24,5 @@
 [Chapter 08. 서버 네트워크 기본](https://www.notion.so/Chapter-08-263aaf35675544d4af80e3d81090f2a3?pvs=21)
 
 [Chapter 09. 보안](https://www.notion.so/moondongmin/Chapter-09-34841f4e084d45eabb619de854ad7464)
+
+[Chapter 10. 서버의 방화벽 설정/동작](https://www.notion.so/moondongmin/Chapter-10-5f5b5f8a453848aa80f8ff2ac3abdf8d)
