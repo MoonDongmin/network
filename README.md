@@ -1,7 +1,7 @@
 # Network
 
 ### 이 레퍼지스토리는 네트워크에 대에 간단하게 정리해 놓은 곳.
-### 정리는 <a href ="https://www.notion.so/moondongmin/8af1ef682cb64d468b88bd4fafb8c97d">**Notion**</a>을 통해 정리를 함.
+### 정리는 <a href ="https://www.notion.so/moondongmin/deae9479ce624386ae7bfeaa714c3d96">**Notion**</a>을 통해 정리를 함.
 
 [과제](https://www.notion.so/moondongmin/6acb62d5450547b3a5443979fda80502)
 
