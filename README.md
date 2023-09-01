@@ -1,7 +1,7 @@
 # Network
 
 ### 이 레퍼지스토리는 네트워크에 대에 간단하게 정리해 놓은 곳.
-### 정리는 `노션`을 통해 정리를 함.
+### 정리는 <a href ="https://www.notion.so/moondongmin/8af1ef682cb64d468b88bd4fafb8c97d">**Notion**</a>을 통해 정리를 함.
 
 [과제](https://www.notion.so/moondongmin/6acb62d5450547b3a5443979fda80502)
 
@@ -27,4 +27,6 @@
 
 [Chapter 10. 서버의 방화벽 설정/동작](https://www.notion.so/moondongmin/Chapter-10-5f5b5f8a453848aa80f8ff2ac3abdf8d)
 
-[Chatper 11. 이중화 기술](https://www.notion.so/moondongmin/Chatper-11-4a163799c03140e8a62664b6e556cac3)
+[Chapter 11. 이중화 기술](https://www.notion.so/moondongmin/Chatper-11-4a163799c03140e8a62664b6e556cac3)
+
+[Chapter 12. 로드 밸런서](https://www.notion.so/moondongmin/Chapter-12-b0436de6a1bd47a395328533d21531d3)
